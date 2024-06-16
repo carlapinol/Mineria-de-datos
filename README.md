@@ -90,7 +90,7 @@ spain_heat_map(data, path, cmap, title)
 1. **Clonar el Repositorio**:
    ```bash
    git clone https://github.com/carlapinol/Mineria-de-datos
-   cd tu_repositorio
+   cd Mineria-de-datos
    ```
 
 2. **Ejecutar los Scripts**:
