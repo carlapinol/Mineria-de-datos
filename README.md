@@ -29,11 +29,12 @@ pip install pandas numpy geopandas matplotlib plotly
 
 ### 1. Cargar Datos
 
-El script `carga.py` carga archivos CSV en DataFrames de pandas.
+El script `carga.py` carga archivos CSV en DataFrames de pandas. Independientemente de su separador.
 
 ```python
 form carga import cargar_datos
-dataframes_cargados = cargar_datos("ruta/al/directorio/data"):
+
+dataframes_cargados = cargar_datos("ruta/al/directorio/data")
 ```
 
 ### 2. Limpiar y Analizar Datos
