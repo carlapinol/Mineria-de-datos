@@ -65,7 +65,7 @@ plotear_datos(data, x='Comunidad', y='Total', title='Contribución de Comunidade
 
 ### 4. Generar Mapas de Calor
 
-El script `spain.py` genera mapas de calor de España utilizando el shapefile proporcionado.
+El script `spain.py` genera mapas de calor de España utilizando el shapefile proporcionado, en Matplotlib o Plotly.
 
 ```python
 from spain import spain_heat_map
@@ -82,7 +82,7 @@ cmap = "autumn"
 title = "Mapa de Calor de España"
 
 # Llamar a la función con datos aleatorios
-spain_heat_map(data, path, cmap, title)
+spain_heat_map(data, path, cmap, title, plot_type="matplotlib")
 ```
 
 ## Instrucciones Adicionales
