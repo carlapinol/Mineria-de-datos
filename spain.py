@@ -8,13 +8,13 @@ def spain_heat_map(data, path, cmap, title, plot_type="matplotlib"):
     ############################################################
     # data: datos a representar
     # path: localizacion de la carpeta spain
-    # cmap: color mapa ("winter", "spring", "autumn", "summer")
+    # cmap: color mapa 
     # title: titulo para el mapa
     # plot_type: tipo de gráfico ("matplotlib" o "plotly")
     ############################################################
     
     # Crear la ruta completa al archivo .shp (asegúrate de que los otros archivos del shapefile estén en el mismo directorio)
-    shapefile_path = os.path.join(path, 'spain/spain.shp')
+    shapefile_path = os.path.join(path, 'spain.shp')
     
     # Leer el shapefile
     spain = gpd.read_file(shapefile_path, encoding='latin1')  
