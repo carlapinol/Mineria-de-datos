@@ -8,9 +8,7 @@ Para ver este proyecto ejecutado en Google Colab, simplemente haz clic en el sig
 
 ## Uso del Chatbot MarIAno
 
-Para facilitar el trabajo y la interacción con el proyecto, puedes usar el chatbot creado específicamente para este trabajo, llamado MarIAno. Puedes acceder a MarIAno a través del siguiente enlace:
-
-[MarIAnito](https://chatgpt.com/g/g-W4KJ8mawg-mariano)
+Para facilitar el trabajo y la interacción con el proyecto, puedes usar el chatbot creado específicamente para este trabajo, llamado MarIAno. Puedes acceder a MarIAno a través del siguiente enlace: [MarIAnito](https://chatgpt.com/g/g-W4KJ8mawg-mariano)
 
 Este chatbot está diseñado para responder preguntas y proporcionar asistencia relacionada con los datos y scripts incluidos en este repositorio.
 
