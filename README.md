@@ -8,6 +8,9 @@ Este repositorio contiene scripts para la carga, limpieza y visualización de da
 - `spain.py`: Script para generar mapas de calor de España utilizando datos geoespaciales.
 - `data/`: Carpeta que contiene los archivos CSV con los datos.
 - `spain/`: Carpeta que contiene el shapefile (`spain.shp`) y los archivos asociados.
+- `Datos_turismo.ipynb`: Notebook que contine el codigo con la carga, limpieza y análisis de los datos.
+
+* Para visualizar el Notebook ejecutado tenemos el siguiente [Enlace a Colab]{https://colab.research.google.com/drive/1Z6jszqkcaNDSDhDA-5np-itqsQf3V8Ps?usp=sharing}
 
 ## Requisitos
 
