@@ -21,9 +21,6 @@ def plotear_datos(data, x, y, title, xlabel, ylabel, chart_type, width=1000, hei
     - fig: La figura Plotly generada.
     """
     
-    # Limpiar los valores de la columna y
-    data[y] = data[y].str.replace('.', '', regex=False).str.replace(',', '.', regex=False).astype(float)
-
     fig = None
     
     if chart_type == 'line':
