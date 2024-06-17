@@ -6,6 +6,14 @@ Para ver este proyecto ejecutado en Google Colab, simplemente haz clic en el sig
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z6jszqkcaNDSDhDA-5np-itqsQf3V8Ps?usp=sharing)
 
+## Uso del Chatbot MarIAno
+
+Para facilitar el trabajo y la interacción con el proyecto, puedes usar el chatbot creado específicamente para este trabajo, llamado MarIAno. Puedes acceder a MarIAno a través del siguiente enlace:
+
+[MarIAnito](https://chatgpt.com/g/g-W4KJ8mawg-mariano)
+
+Este chatbot está diseñado para responder preguntas y proporcionar asistencia relacionada con los datos y scripts incluidos en este repositorio.
+
 ## Estructura del Proyecto
 
 - `carga.py`: Script para cargar archivos CSV en DataFrames de pandas.
