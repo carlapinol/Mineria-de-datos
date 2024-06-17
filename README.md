@@ -12,7 +12,7 @@ Para facilitar el trabajo y la interacción con el proyecto, puedes usar el chat
 
 Este chatbot está diseñado para responder preguntas y proporcionar asistencia relacionada con los datos y scripts incluidos en este repositorio.
 
-![Marianito](./images/marianito.png)
+![Marianito](./image/marianito.png)
 
 ## Estructura del Proyecto
 
