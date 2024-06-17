@@ -14,6 +14,9 @@ def cargar_datos(path):
     if not archivos_csv:
         print("No se encontraron archivos CSV en el directorio proporcionado.")
         return None
+
+    # Ordenar los archivos por nombre
+    archivos_csv.sort()
     
     dataframes = {}  # Diccionario para almacenar los DataFrames
     for i, archivo in enumerate(archivos_csv):
