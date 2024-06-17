@@ -1,5 +1,11 @@
 Este repositorio contiene scripts para la carga, limpieza y visualización de datos geoespaciales en España. Incluye datos de la carpeta `data` y un shapefile en la carpeta `spain` para generar mapas de calor.
 
+## Cómo usar este proyecto
+
+Para ver este proyecto ejecutado en Google Colab, simplemente haz clic en el siguiente enlace:
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z6jszqkcaNDSDhDA-5np-itqsQf3V8Ps?usp=sharing)
+
 ## Estructura del Proyecto
 
 - `carga.py`: Script para cargar archivos CSV en DataFrames de pandas.
@@ -9,8 +15,6 @@ Este repositorio contiene scripts para la carga, limpieza y visualización de da
 - `data/`: Carpeta que contiene los archivos CSV con los datos.
 - `spain/`: Carpeta que contiene el shapefile (`spain.shp`) y los archivos asociados.
 - `Datos_turismo.ipynb`: Notebook que contine el codigo con la carga, limpieza y análisis de los datos.
-
-* Para visualizar el Notebook ejecutado tenemos el siguiente [Enlace a Colab]{https://colab.research.google.com/drive/1Z6jszqkcaNDSDhDA-5np-itqsQf3V8Ps?usp=sharing}
 
 ## Requisitos
 
