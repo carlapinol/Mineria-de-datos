@@ -71,7 +71,8 @@ def spain_heat_map(data, path, cmap, title, plot_type="matplotlib"):
                             color="data",
                             color_continuous_scale=cmap,
                             labels={'data': 'Porcentaje'},
-                            title=title)
+                            title=title,
+                            hover_name="NAME_1")
 
         # Personalizar el mapa
         fig.update_geos(fitbounds="locations", visible=False)
