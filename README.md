@@ -2,6 +2,8 @@ Este repositorio contiene scripts para la carga, limpieza y visualización de da
 
 ## Cómo usar este proyecto
 
+Este es el enlace para el [vídeo de presentación](https://unialicante-my.sharepoint.com/:p:/g/personal/aln21_mscloud_ua_es/EQrJU03R4j9Jk4kRDZWAz8sBLqfC2YBBS0WwXNxv1HuxqQ?e=0nryK4) 
+
 Para ver este proyecto ejecutado en Google Colab, simplemente haz clic en el siguiente enlace:
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z6jszqkcaNDSDhDA-5np-itqsQf3V8Ps?usp=sharing)
